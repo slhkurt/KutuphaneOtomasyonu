@@ -1,0 +1,16 @@
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\bin\Debug\kutuphaneotomasyonu.exe.config
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\bin\Debug\kutuphaneotomasyonu.exe
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\bin\Debug\kutuphaneotomasyonu.pdb
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.csprojAssemblyReference.cache
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\MainWindow.g.cs
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\App.g.cs
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu_MarkupCompile.cache
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu_MarkupCompile.lref
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\MainWindow.baml
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.g.resources
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.Properties.Resources.resources
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.csproj.GenerateResource.cache
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.exe
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.pdb
+C:\Users\B109-01\Desktop\kutuphaneotomasyonu_24_02_2020\kutuphaneotomasyonu\obj\Debug\App.baml
